@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather Info</string>
+    <string name="weather_bit_io_api_key">5f2023458d934dc5a469ef48668530f4</string>
+    <string name="celsius_character"> \u2103</string>
+</resources>
